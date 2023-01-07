@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repo de prueba del modulo2 del PrepCourse de Henry
+Este es un proyecto de pueba de como crear un repo y clonarlo desde githaub a la computadora
